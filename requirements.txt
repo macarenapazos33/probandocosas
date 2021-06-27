@@ -1,4 +1,2 @@
-python3-flask
-python3-itsdangerous
-python3-pyinotify
-ipython3-werkzeug
+pytest==3.0.6
+Flask==0.12
